@@ -7,8 +7,8 @@ This plugin allows you to fill `Arrays` with lists of interesting/meaningful wor
 
 `Flowers` `Fruits`   `Colors` `Birds`   `Animals` `Gems`   `Zodiac`
 `Insects` `Fish`     `Food`   `Drinks`  `Months`  `Days`   `Vegetables`
-`Planets` `Elements` `Metals` `Greeks`  `Romans`  `Trees`  `Seasons`
-`Oceans`  `Seas`     `Rivers` `Languages`
+`Planets` `Elements` `Metals` `Greeks`  `Romans`  `Trees`  `Languages`
+`Oceans`  `Seas`     `Rivers` `Seasons` `Numbers`
 
 
 ### Examples
@@ -23,6 +23,8 @@ This plugin allows you to fill `Arrays` with lists of interesting/meaningful wor
  `colp`        | `"Red", "Yellow", "Blue"`
  `colr`        | `"Red", "Orange", "Yellow", "Green", "Blue", "Indigo", "Violet"`
  `elma`        | `"Hydrogen", "Helium", "Lithium", "Beryllium", "Boron"`
+ `numof`       | `371, 373, 375, 377, 379, 381, 383, 385, 387, 389`
+ `numpre`      | `101, 103, 107, 109, 113, 127, 131, 137, 139, 149`
 
 
 ### Tips
