@@ -3,6 +3,9 @@
 This plugin allows you to fill `Arrays` with lists of interesting/meaningful words by typing just a few keys. You have a choice to pick from several available categories. You could intuitively extend your lists as long as you want them to be. It works equally well in all mainstream programming languages, like `Python`, `Javascript`, `Java`, `C`, `C++`, `C#`, `Lua`, `Ruby`, etc. You could also use it with other array-like collection objects/types, like `List`, `Set`, `Tuple`, etc.
 
 
+![DEMO](https://github.com/civAnimal/autofill-arrays/blob/main/demo.gif)
+
+
 ### Available Categories
 
 `Flowers` `Fruits`   `Colors` `Birds`   `Animals` `Gems`   `Directions`
