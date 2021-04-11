@@ -39,7 +39,7 @@ This plugin allows you to fill `Arrays` with lists of interesting/meaningful wor
 * With a combination of few key-strokes, you could construct quite long lists within a matter of seconds.
 
 
-### Installation _ via Sublime Package Control
+### Installation _ via Sublime Package Control (Awaiting PR/Package Acceptance)
 
 * Open command palette by using the menu command: _Tools_ → _Command Palette_
 * Select: `Package Control: Install Package`
