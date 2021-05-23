@@ -1,0 +1,35 @@
+[
+  {
+    "id": "preferences",
+    "children":
+    [
+      {
+        "id": "package-settings",
+        "children":
+        [
+          {
+            "caption": "AutoFill Arrays",
+            "mnemonic": "A",
+            "children":
+            [
+              {
+                "command": "open_file",
+                "args":
+                {
+                  "file": "${packages}/autofill_arrays/autofill_arrays.sublime-settings"
+                },
+                "caption": "Change Prefix",
+                "mnemonic": "C"
+              },
+              {
+                "command": "reload_plugin_auto_fill_arrays",
+                "caption": "Reload Plugin",
+                "mnemonic": "R"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,3 @@
+{
+  "prefix": "voc" // any alphaNumeric string is valid ... empty string "" means: no prefix
+}

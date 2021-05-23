@@ -30,6 +30,17 @@ This plugin allows you to fill `Arrays` with lists of interesting/meaningful wor
  `numpre`      | `101, 103, 107, 109, 113, 127, 131, 137, 139, 149`
 
 
+### Prefix Feature
+
+* From ver 2.0, prefix feature has been introduced to help address the issue of undue clutter. Default prefix is `voc`. This is completely configurable. If you want the old/direct invocation behaviour back, simply set the prefix to `""` empty string.
+
+* Menu command to change prefix: _Preferences_ → _Package Settings_  → _AutoFill Arrays_  → _Change Prefix_
+
+* After saving changes, the plugin must be reloaded for those changes to take effect.
+
+* Menu command to reload plugin: _Preferences_ → _Package Settings_  → _AutoFill Arrays_  → _Reload Plugin_
+
+
 ### Tips
 
 * Type only a few letters of the desired category. If you don't see Sublime Text's AutoComplete System responding to your typing, then you could activate it manually by pressing `ctrl + space`.
