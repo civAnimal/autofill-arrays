@@ -47,8 +47,6 @@ This plugin allows you to fill `Arrays` with lists of interesting/meaningful wor
 
 * Most categories comprise several short (5 elements) and long (>= 10 elements) lists. Explore them and incorporate them in your workflow accordingly.
 
-* With a combination of few key-strokes, you could construct quite long lists within a matter of seconds.
-
 
 ### Installation
 
